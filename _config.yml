@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Ian Y.E. Pan                          # the main title
+title: Bryant Hsiung                          # the main title
 
 tagline: software engineer, emacs enthusiast, keyboard lover. occasionally nerdy. # it will display as the sub-title
 
@@ -24,13 +24,13 @@ description: >-                        # used by seo meta and the atom feed
   software engineer, emacs enthusiast, keyboard lover. occasionally nerdy.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ianyepan.github.io'
+url: 'https://bryanthsiung.github.io'
 
 github:
-  username: ianyepan             # change to your github username
+  username: BryantHsiung             # change to your github username
 
 twitter:
-  username:             # change to your twitter username
+  username:                       # change to your twitter username
 
 social:
   # Change to your full name.
@@ -39,11 +39,11 @@ social:
   email: ian.pan@columbia.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/ianyepan       # change to your github homepage
+    - https://github.com/BryantHsiung       # change to your github homepage
     # - https://twitter.com/username      # change to your twitter homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/ian.y.e.pan
-    - https://www.linkedin.com/in/ianyepan
+    # https://www.facebook.com/ian.y.e.pan
+    # https://www.linkedin.com/in/ianyepan
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
