@@ -16,20 +16,20 @@ timezone:
 
 title: Bryant Hsiung # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: CS and Stats @ UIUC # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: 'https://bryanthsiung.github.io'
 
 github:
   username: BryantHsiung # change to your github username
 
-# twitter:
-#   username: twitter_username # change to your twitter username
+twitter:
+   username:  # change to your twitter username
 
 social:
   # Change to your full name.
